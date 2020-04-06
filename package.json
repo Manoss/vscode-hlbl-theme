@@ -1,0 +1,29 @@
+{
+    "name": "hlbl-theme",
+    "displayName": "hlbl-theme",
+    "description": "Theme for HLBL Language",
+    "version": "0.0.1",
+    "publisher": "Manoss",
+	"repository": "https://github.com/Manoss/vscode-HLBL.tmLanguage",
+    "license": "GPL",
+    "engines": {
+        "vscode": "^1.43.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Foxboro",
+        "IAS",
+        "Schneider"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "HLBL Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/HLBL Theme-color-theme.json"
+            }
+        ]
+    }
+}
