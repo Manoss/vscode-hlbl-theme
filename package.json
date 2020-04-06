@@ -4,7 +4,7 @@
     "description": "Theme for HLBL Language",
     "version": "0.0.1",
     "publisher": "Manoss",
-	"repository": "https://github.com/Manoss/vscode-HLBL.tmLanguage",
+	"repository": "https://github.com/Manoss/vscode-hlbl-theme",
     "license": "GPL",
     "engines": {
         "vscode": "^1.43.0"

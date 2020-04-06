@@ -14,7 +14,7 @@ https://code.visualstudio.com/docs/editor/extension-gallery#_install-from-a-vsix
 
 From MarketPlace :
 
-https://marketplace.visualstudio.com/items?itemName=Manoss.hlbl
+https://marketplace.visualstudio.com/items?itemName=Manoss.hlbl-theme
 
 https://code.visualstudio.com/docs/editor/extension-gallery#_browse-for-extensions
 
